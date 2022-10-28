@@ -10,3 +10,12 @@ The sequence of the images are: 1) Input Image 2) Ground Truth Mask and 3) Predi
 ![](results/0000044.png)
 ![](results/0000047.png)
 ![](results/0000415.png)
+
+## Contact:
+For more follow me on:
+
+- <a href="https://www.youtube.com/idiotdeveloper"> YouTube </a>
+- <a href="https://facebook.com/idiotdeveloper"> Facebook </a>
+- <a href="https://twitter.com/nikhilroxtomar"> Twitter </a>
+- <a href="https://www.instagram.com/nikhilroxtomar"> Instagram </a>
+- <a href="https://t.me/idiotdeveloper"> Telegram </a>
